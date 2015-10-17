@@ -1,4 +1,4 @@
-# PyQt AutoComplete
+# PyQt5 Completions
 ![Preview](./preview.png)
 ## About
 
@@ -9,9 +9,9 @@ A Sublime text package that pops up suggestions for common PyQt classes and comp
 
 ### Using Package Control's Repository
 
-Go to `Preferences` --> `Package Control` --> `Add Repository` --> then type into the textbox `https://github.com/tushortz/PyQt-AutoComplete`
+Go to `Preferences` --> `Package Control` --> `Add Repository` --> then type into the textbox `https://github.com/tushortz/`
 
-After doing this, then go to: `Preferences` --> `Package Control` --> `Install Package` --> then search `PyQt-AutoComplete` and click it.
+After doing this, then go to: `Preferences` --> `Package Control` --> `Install Package` --> then search `PyQt5-Completions` and click it.
 
 The package will be installed and ready for use.
 
@@ -27,10 +27,23 @@ The package will be installed and ready for use.
 
 On a Python file in sublime text, type your desired component name or method and suggestions should follow. Press tab and autocomplete will be made.
 
+## Example
+
+
+> Note: All the string with bold below is used to specify which case it should begin with.
+
+| Component Usage    | Package display          | Package Type |
+| :-------------:    | :-------------:          | :-----:      |
+| **s**etMaximumSize | `setMaximumSize();`      |  Methods     |
+| **Q**tWidgets      | `#include <QtWidgets>`   |  Modules     |
+| **Q**Label         | `QLabel`                 |  Classes     |
+| **Q**Audio         | `#include <QAudio>`      |  Namespaces  |
+
+
 
 ## Contributing
 
-All contributions are welcome. You can fork it on [Github](https://github.com/tushortz/PyQt-AutoComplete)
+All contributions are welcome. You can fork it on [Github](https://github.com/tushortz/PyQt5-Completions)
 
 ## License
 © 2015 Taiwo Kareem | taiwo.kareem36@gmail.com.
