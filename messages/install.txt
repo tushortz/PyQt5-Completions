@@ -1,0 +1,8 @@
+Python Improved
+===============
+
+Thank you for installing PyQt AutoComplete, an easy to use auto-import for QT classes, component and common methods.
+
+If you have any questions, comments, concerns, bugs, or patches, please open an
+issue or pull request on GitHub and I'll do what I can to help out. You can also
+email me directly at <taiwo.kareem36@gmail.com>. 
