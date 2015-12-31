@@ -34,10 +34,9 @@ On a Python file in sublime text, type your desired component name or method and
 
 | Component Usage    | Package display          | Package Type |
 | :-------------:    | :-------------:          | :-----:      |
-| **s**etMaximumSize | `setMaximumSize();`      |  Methods     |
-| **Q**tWidgets      | `#include <QtWidgets>`   |  Modules     |
+| **s**etMaximumSize | `setMaximumSize();`      |  methods.    |
 | **Q**Label         | `QLabel`                 |  Classes     |
-| **Q**Audio         | `#include <QAudio>`      |  Namespaces  |
+
 
 
 
