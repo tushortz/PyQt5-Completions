@@ -40,7 +40,7 @@
 		{"trigger": "PyQt5.QtX11Extras\tPyQt import", "contents": "from PyQt5.QtX11Extras import *"},
 		{"trigger": "PyQt5.QtXml\tPyQt import", "contents": "from PyQt5.QtXml import *"},
 		{"trigger": "PyQt5.QtXmlPatterns\tPyQt import", "contents": "from PyQt5.QtXmlPatterns import *"},
-		{"trigger": "PyQt5.uic\tPyQt import", "contents": "from PyQt5.uic import *"},
+		{"trigger": "PyQt5.uic\tPyQt import", "contents": "from PyQt5.uic import *"}
 
 	]
 }
