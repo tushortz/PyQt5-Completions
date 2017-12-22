@@ -10405,7 +10405,7 @@
 		{"trigger": "zoomIn\tPyQt Functions", "contents": "zoomIn($1)"},
 		{"trigger": "zoomMode\tPyQt Functions", "contents": "zoomMode($1)"},
 		{"trigger": "zoomOut\tPyQt Functions", "contents": "zoomOut($1)"},
-		{"trigger": "zoomTo\tPyQt Functions", "contents": "zoomTo($1)"},
+		{"trigger": "zoomTo\tPyQt Functions", "contents": "zoomTo($1)"}
 
 	]
 }
