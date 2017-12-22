@@ -1188,7 +1188,7 @@
 		{"trigger": "QXmlStreamNotationDeclaration\tPyQt Classes", "contents": "QXmlStreamNotationDeclaration"},
 		{"trigger": "QXmlStreamReader\tPyQt Classes", "contents": "QXmlStreamReader"},
 		{"trigger": "QXmlStreamWriter\tPyQt Classes", "contents": "QXmlStreamWriter"},
-		{"trigger": "qoutputrange\tPyQt Classes", "contents": "qoutputrange"},
+		{"trigger": "qoutputrange\tPyQt Classes", "contents": "qoutputrange"}
 
 	]
 }
